@@ -1,0 +1,15 @@
+I initially created the folder by the name of grepoassignment.
+
+Initiate the folder by doing git init.
+
+I have created the files called html, css and md files.
+
+I then checked the status by git status command
+
+git add .
+
+git commit with a message 
+
+git remote add origin https://github.com/kaabboo/GitHubRepoAsgmnt.git
+
+git push -u origin master
